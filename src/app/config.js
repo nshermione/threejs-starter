@@ -5,7 +5,7 @@
 let GameConfig = {
   gameWidth: 1280,
   gameHeight: 720,
-  selector: 'flappy-bird-online'
+  selector: 'app'
 };
 
 export {
